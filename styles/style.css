@@ -356,8 +356,8 @@
   }
 
   .footer__logo {
-    flex-basis: 58px;
-    max-width: 58px;
+    width: 58px;
+    height: 80px;
   }
 
   .footer__column_content_hours {
@@ -371,8 +371,7 @@
   }
 
   .footer__column-heading {
-    font-size: 20px;
-    font-weight: 700;
+    margin-bottom: 20px;
   }
 
   .footer__list {
@@ -390,6 +389,7 @@
     text-decoration: none;
     display: flex;
     align-items: center;
+    column-gap: 10px;
 
   }
 
