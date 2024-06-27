@@ -352,7 +352,6 @@
   }
 
   .footer__column {
-    flex-basis: flex;
     justify-content: space-between;
   }
 
